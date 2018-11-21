@@ -1,6 +1,5 @@
 Hello there!
-Look new branch was created! 
+Look new branch was created!
 
-another line
+I'm the best!
 
-I'm a cool guy -> I'm awesome
